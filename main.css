@@ -1,0 +1,33 @@
+.resume-display {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.resume-content h2 {
+  color: #333;
+  margin: 0;
+}
+
+.resume-content .section {
+  margin-bottom: 20px;
+}
+
+.resume-content .section h3 {
+  font-size: 1.2em;
+  margin-bottom: 5px;
+  color: #555;
+}
+
+.resume-content p,
+.resume-content ul {
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.resume-content ul {
+  list-style: none;
+  padding: 0;
+}
